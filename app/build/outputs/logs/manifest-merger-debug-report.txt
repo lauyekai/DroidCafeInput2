@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-25:12
+ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-30:12
 MERGED from [com.android.support:design:26.1.0] C:\Users\azrael1997\.gradle\caches\transforms-2\files-2.1\c49be6779b23b3f35b435d1fa993af05\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\azrael1997\.gradle\caches\transforms-2\files-2.1\27eea198198c0a4200b1eaf527954ba6\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\azrael1997\.gradle\caches\transforms-2\files-2.1\9be4e4dff3422fbe27611fa72333dba1\AndroidManifest.xml:2:1-11:12
@@ -18,25 +18,25 @@ MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\azrael1997\
 MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\azrael1997\.gradle\caches\transforms-2\files-2.1\0007b0da591022d3d275c7f49d5de882\AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:26.1.0] C:\Users\azrael1997\.gradle\caches\transforms-2\files-2.1\48734c616181ada0fac22221974bf1e3\AndroidManifest.xml:17:1-31:12
 MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\azrael1997\.gradle\caches\transforms-2\files-2.1\436d9998d7cfaf37d84aee6714932e6d\AndroidManifest.xml:17:1-30:12
-INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-25:12
-INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-30:12
 	package
 		ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:3:5-49
 		INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-25:12
+		ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:1-30:12
 		INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:5:5-23:19
+ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:5:5-28:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\azrael1997\.gradle\caches\transforms-2\files-2.1\c49be6779b23b3f35b435d1fa993af05\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:design:26.1.0] C:\Users\azrael1997\.gradle\caches\transforms-2\files-2.1\c49be6779b23b3f35b435d1fa993af05\AndroidManifest.xml:25:5-29:19
 MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\azrael1997\.gradle\caches\transforms-2\files-2.1\27eea198198c0a4200b1eaf527954ba6\AndroidManifest.xml:25:5-29:19
@@ -96,9 +96,19 @@ ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-ap
 	android:name
 		ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:19:27-74
 activity#com.example.android.droidcafeinput.OrderActivity
-ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:22:9-51
+ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:22:9-27:20
+	android:parentActivityName
+		ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:24:13-55
+	android:label
+		ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:23:13-43
 	android:name
-		ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:22:19-48
+		ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:22:19-82
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:25:13-26:48
+	android:value
+		ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:26:17-46
+	android:name
+		ADDED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml:25:24-70
 uses-sdk
 INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\azrael1997\Desktop\mobileapplication\android-fundamentals-apps-v2-master\DroidCafeInput\app\src\main\AndroidManifest.xml
